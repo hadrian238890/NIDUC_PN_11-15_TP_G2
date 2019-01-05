@@ -1,6 +1,7 @@
 import numpy
 import reedsolo
 
+import NOKIA TEST
 
 class Coder():
 
